@@ -10,7 +10,8 @@ import (
 	//"GoLibLearn/pathLearn"
 	//"GoLibLearn/net"
 	//"runtime"
-	"GoLibLearn/os"
+	//"GoLibLearn/os"
+	"GoLibLearn/strings"
 	//"fmt"
 )
 
@@ -26,7 +27,9 @@ func main() {
 
 	//os.SystemCmd()
 	//os.Process()
-	os.Process_Output()
+	//os.Process_Output()
+
+	strings.Str_Method()
 
 	//fmt.Println("Hello World!")
 	//compressLearn.Jiangyou()
